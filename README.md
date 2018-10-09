@@ -9,4 +9,4 @@
 | Topic                  | Code                | Video                                  |
 | ---------------------- | ------------------- | -------------------------------------- |
 | 1. Hashketball Review  | [Code](https://github.com/learn-co-students/nyc-web-100818/tree/master/01-hashketball-review)  | [Video](https://youtu.be/uYnavK7NI0U)  |
-| 2. Intro to OOP        | [Code](https://github.com/learn-co-students/nyc-web-100818/tree/master/02-intro-to-oo) | Video |
+| 2. Intro to OOP        | [Code](https://github.com/learn-co-students/nyc-web-100818/tree/master/02-intro-to-oo) | [Video](https://youtu.be/skvMfQpTwHg) |
