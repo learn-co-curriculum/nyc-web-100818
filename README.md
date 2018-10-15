@@ -13,3 +13,4 @@
 | 3. Object Oriented Relationships  | [Code](https://github.com/learn-co-students/nyc-web-100818/tree/master/03-object-oriented-relationships) | [Video](https://youtu.be/M3PqyuFppzc) |
 | 4. Review | [Code](https://github.com/learn-co-students/nyc-web-100818/tree/master/04-review-it-all) | [Video](https://youtu.be/J_DKNoaQr_I) |
 | 5. Intro to Inheritance | [Code](https://github.com/learn-co-students/nyc-web-100818/tree/master/05-intro-to-inheritance) | [Video](https://youtu.be/mbA6lahhEwg) |
+| 6. Mock Review | [Code](https://github.com/learn-co-students/nyc-web-100818/tree/master/06-mock-review) | Video |
