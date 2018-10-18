@@ -15,3 +15,5 @@
 | 5. Intro to Inheritance | [Code](https://github.com/learn-co-students/nyc-web-100818/tree/master/05-intro-to-inheritance) | [Video](https://youtu.be/mbA6lahhEwg) |
 | 6. Mock Review | [Code](https://github.com/learn-co-students/nyc-web-100818/tree/master/06-mock-review) | Video |
 | 7. Boating Lab Review | [Code](https://github.com/learn-co-students/nyc-web-100818/tree/master/07-quick-review/ruby-boating-school-nyc-web-100818) | [Video](https://youtu.be/BN_3hnLL6Yg) |
+| 8. Intro to SQL | [Code](https://github.com/learn-co-students/nyc-web-100818/tree/master/08-intro-to-sql) | [Video](https://youtu.be/w09biH6lpBs) |
+| 9. Intro to ORM | [Code](https://github.com/learn-co-students/nyc-web-100818/tree/master/09-intro-to-orm) | [Video](https://youtu.be/8DzvuqGwbhg) |
