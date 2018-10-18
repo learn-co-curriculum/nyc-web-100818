@@ -17,3 +17,4 @@
 | 7. Boating Lab Review | [Code](https://github.com/learn-co-students/nyc-web-100818/tree/master/07-quick-review/ruby-boating-school-nyc-web-100818) | [Video](https://youtu.be/BN_3hnLL6Yg) |
 | 8. Intro to SQL | [Code](https://github.com/learn-co-students/nyc-web-100818/tree/master/08-intro-to-sql) | [Video](https://youtu.be/w09biH6lpBs) |
 | 9. Intro to ORM | [Code](https://github.com/learn-co-students/nyc-web-100818/tree/master/09-intro-to-orm) | [Video](https://youtu.be/8DzvuqGwbhg) |
+| 10. Intro to Active Record | [Code](https://github.com/learn-co-students/nyc-web-100818/tree/master/10-intro-to-active-record) | [Video](https://youtu.be/gbj-VHbZTj8) |
