@@ -19,3 +19,4 @@
 | 9. Intro to ORM | [Code](https://github.com/learn-co-students/nyc-web-100818/tree/master/09-intro-to-orm) | [Video](https://youtu.be/8DzvuqGwbhg) |
 | 10. Intro to Active Record | [Code](https://github.com/learn-co-students/nyc-web-100818/tree/master/10-intro-to-active-record) | [Video](https://youtu.be/gbj-VHbZTj8) |
 | 11. Active Record Associations | [Code](https://github.com/learn-co-students/nyc-web-100818/tree/master/11-active-record-associations) | [Video](https://youtu.be/oxHZwopTzR0) |
+| 12. Hashes and the Internet | [Code](https://github.com/learn-co-students/nyc-web-100818/tree/master/12-hashes-and-the-internet) | [Video](https://youtu.be/du7ZcV0Xbs8) |
