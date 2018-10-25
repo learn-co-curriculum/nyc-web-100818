@@ -22,3 +22,4 @@
 | 12. Hashes and the Internet | [Code](https://github.com/learn-co-students/nyc-web-100818/tree/master/12-hashes-and-the-internet) | [Video](https://youtu.be/du7ZcV0Xbs8) |
 | 13. OO Mini Lab Review | [Code](https://github.com/learn-co-students/nyc-web-100818/tree/master/13-oo-mini-project-review) | [Video](https://youtu.be/t8FoINyYHl8) |
 | 14. Intro to TDD | [Code](https://github.com/learn-co-students/nyc-web-100818/tree/master/14-intro-to-tdd) | [Video](https://youtu.be/hVxezDz5dqI) |
+| 15. Lyft Review | [Code](https://github.com/learn-co-students/nyc-web-100818/tree/master/15-oo-relations-review/oo-relationships-practice-nyc-web-100818) | [Video](https://youtu.be/YoQXwDSqDFg) |
