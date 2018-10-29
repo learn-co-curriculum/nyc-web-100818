@@ -23,3 +23,12 @@
 | 13. OO Mini Lab Review | [Code](https://github.com/learn-co-students/nyc-web-100818/tree/master/13-oo-mini-project-review) | [Video](https://youtu.be/t8FoINyYHl8) |
 | 14. Intro to TDD | [Code](https://github.com/learn-co-students/nyc-web-100818/tree/master/14-intro-to-tdd) | [Video](https://youtu.be/hVxezDz5dqI) |
 | 15. Lyft Review | [Code](https://github.com/learn-co-students/nyc-web-100818/tree/master/15-oo-relations-review/oo-relationships-practice-nyc-web-100818) | [Video](https://youtu.be/YoQXwDSqDFg) |
+
+---
+
+## Module 2 🚂
+
+| Topic                  | Code                | Video                                  |
+| ---------------------- | ------------------- | -------------------------------------- |
+| 1.Intro to the Internet  | [Code]()  | [Video](https://youtu.be/WoC6V-uW-7k)  |
+| 1.Intro to Sinatra  | [Code]()  | [Video](https://youtu.be/gj8GofQfI4E)  |
