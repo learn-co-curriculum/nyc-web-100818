@@ -30,6 +30,6 @@
 
 | Topic                  | Code                | Video                                  |
 | ---------------------- | ------------------- | -------------------------------------- |
-| 1.Intro to the Internet  | [Code](https://github.com/learn-co-students/nyc-web-100818/tree/master/16-intro-to-internet)  | [Video](https://youtu.be/Ot1-6hwyPSk)  |
-| 2.Intro to Sinatra  | [Code](https://github.com/learn-co-students/nyc-web-100818/tree/master/17-intro-sinatra-mvc)  | [Video](https://youtu.be/sgOc_tNP99I)  |
+| 1.Intro to the Internet  | [Code](https://github.com/learn-co-students/nyc-web-100818/tree/master/16-intro-to-internet)  | [Video](https://www.youtube.com/watch?v=WoC6V-uW-7k)  |
+| 2.Intro to Sinatra  | [Code](https://github.com/learn-co-students/nyc-web-100818/tree/master/17-intro-sinatra-mvc)  | [Video](https://www.youtube.com/watch?v=gj8GofQfI4E)  |
 | 3.Sinatra and forms  | [Code](https://github.com/learn-co-students/nyc-web-100818/tree/master/18-sinatra-forms)  | [Video](https://youtu.be/jNzwe5sAG5E)  |
