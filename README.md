@@ -34,4 +34,4 @@
 | 2.Intro to Sinatra  | [Code](https://github.com/learn-co-students/nyc-web-100818/tree/master/17-intro-sinatra-mvc)  | [Video](https://www.youtube.com/watch?v=gj8GofQfI4E)  |
 | 3.Sinatra and forms  | [Code](https://github.com/learn-co-students/nyc-web-100818/tree/master/18-sinatra-forms)  | [Video](https://youtu.be/jNzwe5sAG5E)  |
 | 3.Sinatra and associations | [Code](https://github.com/learn-co-students/nyc-web-100818/tree/master/19-sinatra-associated-forms)  | [Video](https://youtu.be/y5kumdsdJpc)  |
-
+| 4.Intro to Rails | [Code](https://github.com/learn-co-students/nyc-web-100818/tree/master/20-intro-to-rails/thanksgiving)  | [Video](https://youtu.be/kon4izjLk6s)  |
