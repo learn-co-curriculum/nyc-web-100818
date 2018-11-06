@@ -36,3 +36,5 @@
 | 3. Sinatra and associations | [Code](https://github.com/learn-co-students/nyc-web-100818/tree/master/19-sinatra-associated-forms)  | [Video](https://youtu.be/y5kumdsdJpc)  |
 | 4. Intro to Rails | [Code](https://github.com/learn-co-students/nyc-web-100818/tree/master/20-intro-to-rails/thanksgiving)  | [Video](https://youtu.be/kon4izjLk6s)  |
 | 5. Rails Pizza CRUD | [Code](https://github.com/learn-co-students/nyc-web-100818/tree/master/20-rails-pizza-crud)  | [Video](https://youtu.be/U6sKH-lZqrg)  |
+| 6. Rails REST and Forms | [Code](https://github.com/learn-co-students/nyc-web-100818/tree/master/22-rails-forms/hiphop)  | [Video](https://youtu.be/Rmek0s4y6QQ)  |
+| 7. Rails Forms and associations | [Code](https://github.com/learn-co-students/nyc-web-100818/tree/master/23-rails-associations/birthday)  | [Video](https://youtu.be/h1lRaJePar8)  |
