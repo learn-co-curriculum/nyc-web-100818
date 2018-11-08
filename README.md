@@ -39,3 +39,4 @@
 | 6. Rails REST and Forms | [Code](https://github.com/learn-co-students/nyc-web-100818/tree/master/22-rails-forms/hiphop)  | [Video](https://youtu.be/Rmek0s4y6QQ)  |
 | 7. Rails Forms and associations | [Code](https://github.com/learn-co-students/nyc-web-100818/tree/master/23-rails-associations/birthday)  | [Video](https://youtu.be/h1lRaJePar8)  |
 | 8. Rails Validations | [Code](https://github.com/learn-co-students/nyc-web-100818/tree/master/24-rails-validations/coffeeshoppe)  | [Video](https://youtu.be/SxhspY4tfag)  |
+| 9. Rails Review | [Code](https://github.com/learn-co-students/nyc-web-100818/tree/master/25-rails-review)  | [Video](https://youtu.be/mhc1hBLp9KU)  |
