@@ -41,4 +41,4 @@
 | 8. Rails Validations | [Code](https://github.com/learn-co-students/nyc-web-100818/tree/master/24-rails-validations/coffeeshoppe)  | [Video](https://youtu.be/SxhspY4tfag)  |
 | 9. Rails Review | [Code](https://github.com/learn-co-students/nyc-web-100818/tree/master/25-rails-review)  | [Video](https://youtu.be/mhc1hBLp9KU)  |
 | 9. Rails Sessions && Cookies | [Code](https://github.com/learn-co-students/nyc-web-100818/tree/master/25-rails-sess-cookies)  | [Video](https://youtu.be/Fhz_EdCkiX4)  |
-| 10. Rails Auth | [Code](https://github.com/learn-co-students/nyc-web-100818/tree/master/26-rails-auth)  | [Part 1: Authentication with `BCrypt`](https://www.youtube.com/watch?v=cxRDo3aworc)  |
+| 10. Rails Auth | [Code](https://github.com/learn-co-students/nyc-web-100818/tree/master/26-rails-auth)  | [Part 1: Authentication with `BCrypt`](https://www.youtube.com/watch?v=cxRDo3aworc) [Part 2: Authorization](https://www.youtube.com/watch?v=zPE8JHZ1C0I)  |
