@@ -43,3 +43,11 @@
 | 9. Rails Sessions && Cookies | [Code](https://github.com/learn-co-students/nyc-web-100818/tree/master/25-rails-sess-cookies)  | [Video](https://youtu.be/Fhz_EdCkiX4)  |
 | 10. Rails Auth | [Code](https://github.com/learn-co-students/nyc-web-100818/tree/master/26-rails-auth)  | [Part 1: Authentication with `BCrypt`](https://www.youtube.com/watch?v=cxRDo3aworc) [Part 2: Authorization](https://www.youtube.com/watch?v=zPE8JHZ1C0I)  |
 | 11. Ye Olde Git Workshoppe ⑂ | [Code](https://github.com/learn-co-students/nyc-web-091718/tree/master/42-git-workshoppe) | [Video](https://youtu.be/SWKMye4sdFE) |
+
+---
+
+## Module 3 ☕️📜🤠
+
+| Topic                  | Code                | Video                                  |
+| ---------------------- | ------------------- | -------------------------------------- |
+| 1. Intro to JavaScript 🤠 | [Code](https://github.com/learn-co-students/nyc-web-100818/tree/master/28-intro-js)  | [Video](https://youtu.be/9DQ7t2WXuA0)  |
