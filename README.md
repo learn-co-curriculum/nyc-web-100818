@@ -51,3 +51,4 @@
 | Topic                  | Code                | Video                                  |
 | ---------------------- | ------------------- | -------------------------------------- |
 | 1. Intro to JavaScript 🤠 | [Code](https://github.com/learn-co-students/nyc-web-100818/tree/master/28-intro-js)  | [Video](https://youtu.be/9DQ7t2WXuA0)  |
+| 2. Lexical Scope and Closures 🧐🔬📦 | [Code](https://github.com/learn-co-students/nyc-web-100818/tree/master/29-lexical-scope-closures)  | [Video STILL UPLOADING]()  |
