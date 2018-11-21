@@ -77,7 +77,9 @@ Over the 4 day break, you will have around 8-10 hours of work to complete in tot
 - Watch the FULL CRUD w/ AJAX [lecture video](https://www.youtube.com/watch?v=DXv4ERdE7Z0&feature=youtu.be) | [code](https://github.com/learn-co-students/nyc-web-091718/tree/master/33-fetch-and-dom)
   - **NOTE**: We will do a review of AJAX and full CRUD after the break. Be sure to watch the video ahead of time
 - Complete **at least one** of the AJAX practice labs. Preferably monsters: on Learn `Project Mode -> Mini Projects -> Monsters Practice Challenge`
-- If you are looking for some extra practice, take a look at full tasklister and the gravatar lab. **THEY ARE VERY DIFFICULT** but definitely worth the challenge.
+- If you are looking for some extra practice, take a look at full tasklister and the gravatar lab. **THEY ARE VERY DIFFICULT** but definitely worth the challenge. The can be found on Learn:
+  - `DOM -> The DOM -> Task Lister -> JS Gravatar Creator` **tough lab but a great challenge**
+  - `DOM -> The DOM -> Task Lister -> JS Task Lister Project` **tough lab but a great challenge**
 
 
 ![](https://media.giphy.com/media/14kTshLgyHiY6Y/giphy.gif)
