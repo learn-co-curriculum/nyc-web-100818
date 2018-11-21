@@ -54,8 +54,8 @@
 | 2. Lexical Scope and Closures 🧐🔬📦 | [Code](https://github.com/learn-co-students/nyc-web-100818/tree/master/29-lexical-scope-closures)  | [Video](https://youtu.be/G5CoU4LeJ0I)  |
 | 3. The DOM 🌲 | [Code](https://github.com/learn-co-students/nyc-web-100818/tree/master/30-dom-intro)  | [Video](https://youtu.be/eOeG0FEVaVE)  |
 | 3. JS Events 🎟 | [Code](https://github.com/learn-co-students/nyc-web-100818/tree/master/31-js-events)  | [Video](https://www.youtube.com/watch?v=3sCG2iqSwWo)  |
-| 4. AJAX Intro ⏳🛁 | [Code](https://github.com/learn-co-students/nyc-web-100818/tree/master/32-ajax-intro)  | []()  |
-| 5. Dog CEO Challenge Review 🤔🐶💼 | [Code][dog-ceo-code]  | []()  |
+| 4. AJAX Intro ⏳🛁 | [Code](https://github.com/learn-co-students/nyc-web-100818/tree/master/32-ajax-intro)  | [Video](https://www.youtube.com/watch?v=HNgv6gh4_oM)  |
+| 5. Dog CEO Challenge Review 🤔🐶💼 | [Code][dog-ceo-code]  | SEE BELOW FOR VIDEOS  |
 | 6. Pokemon Search Review 🐉 | [Code Final][pokemon-code]  | SEE BELOW FOR VIDEOS |
 
 
@@ -71,7 +71,11 @@ Over the 4 day break, you will have around 8-10 hours of work to complete in tot
   - **IMPORTANT NOTE** The Pokemon lab is fairly challenging. I would recommend completing the following labs _first_ and watching the review video:
     - On Learn: `The Web -> Accessing Remote APIs with JavaScript -> Intro Fetch Lab`
     - On Learn: `The Web -> Accessing Remote APIs with JavaScript -> Fetch Intro Dog CEO Challenge`
-      - Dog CEO Challenge Review [code][dog-ceo-code] | [Video COMING SOON™][]
+      - Dog CEO Challenge Review [code][dog-ceo-code]
+        - [Video Review Part 1][dog-ceo-video-1]
+        - [Video Review Part 2][dog-ceo-video-2]
+        - [Video Review Part 3][dog-ceo-video-3]
+        - [Video Review Part 4][dog-ceo-video-4]
 - Watch the Pokemon search review
   - [Part 1][pokemon-review-1]
   - [Part 2][pokemon-review-2] | [Part 2 Code][pokemon-review-2-code]
@@ -79,7 +83,7 @@ Over the 4 day break, you will have around 8-10 hours of work to complete in tot
   - [Part 3][pokemon-review-3] | [Part 3 Code][pokemon-review-3-code]
 - Watch the FULL CRUD w/ AJAX [code][full-crud-ajax-code] | [lecture video][full-crud-ajax-vid]
   - **NOTE**: We will do a review of AJAX and full CRUD after the break. Be sure to watch the video ahead of time
-- Complete **at least one** of the AJAX practice labs. Preferably monsters: on Learn `Project Mode -> Mini Projects -> Monsters Practice Challenge`
+- Complete one of the AJAX practice labs **as a bonus** on Learn `Project Mode -> Mini Projects -> Monsters Practice Challenge`
 - If you are looking for some extra practice, take a look at full tasklister and the gravatar lab. **THEY ARE VERY DIFFICULT** but definitely worth the challenge. The can be found on Learn:
   - `DOM -> The DOM -> Task Lister -> JS Gravatar Creator` **tough lab but a great challenge**
   - `DOM -> The DOM -> Task Lister -> JS Task Lister Project` **tough lab but a great challenge**
@@ -90,7 +94,10 @@ Over the 4 day break, you will have around 8-10 hours of work to complete in tot
 <!-- markdown vars -->
 
 [dog-ceo-code]: https://github.com/learn-co-students/nyc-web-100818/tree/master/33-dog-ceo-challenge
-[dog-ceo-video]:
+[dog-ceo-video-1]: https://youtu.be/Wwa5jNAuRs8
+[dog-ceo-video-2]: https://youtu.be/Zshc2xkQgIk
+[dog-ceo-video-3]: https://youtu.be/sfoCqYj-nj8
+[dog-ceo-video-4]: https://youtu.be/-wvaW5cZlFw
 
 [pokemon-code]: https://github.com/learn-co-students/nyc-web-100818/tree/master/34-pokemon-search-review
 [pokemon-review-1]: https://youtu.be/RAF-RSJuz1Y
