@@ -65,6 +65,10 @@ Over the 4 day break, you will have around 8-10 hours of work to complete in tot
 
 
 - Pokemon Search Lab on Learn `The DOM -> JS Pokemon Search Practice Assignment`
+  - **IMPORTANT NOTE** The Pokemon lab is fairly challenging. I would recommend completing the following labs _first_ and watching the review video:
+    - On Learn: `The Web -> Accessing Remote APIs with JavaScript -> Intro Fetch Lab`
+    - On Learn: `The Web -> Accessing Remote APIs with JavaScript -> Fetch Intro Dog CEO Challenge`
+      - [Dog CEO Challenge Review VIDEO COMING SOON™]() | [Code COMING SOON™]()
 - Watch the Pokemon search review
   - [Part 1](https://youtu.be/RAF-RSJuz1Y)
   - [Part 2](https://youtu.be/vJ2ChSlTv3w) [Part 2 Code](https://github.com/learn-co-students/nyc-web-100818/tree/a09ef732c39b469dad5eb451c3faac0ed9061942/33-pokemon-search-review)
