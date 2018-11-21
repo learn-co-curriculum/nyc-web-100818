@@ -71,9 +71,9 @@ Over the 4 day break, you will have around 8-10 hours of work to complete in tot
       - [Dog CEO Challenge Review VIDEO COMING SOON™]() | [Code COMING SOON™]()
 - Watch the Pokemon search review
   - [Part 1](https://youtu.be/RAF-RSJuz1Y)
-  - [Part 2](https://youtu.be/vJ2ChSlTv3w) | [Part 2 Code](https://github.com/learn-co-students/nyc-web-100818/tree/a09ef732c39b469dad5eb451c3faac0ed9061942/33-pokemon-search-review)
+  - [Part 2](https://youtu.be/vJ2ChSlTv3w) | [Part 2 Code](https://github.com/learn-co-students/nyc-web-100818/tree/a09ef732c39b469dad5eb451c3faac0ed9061942/34-pokemon-search-review)
   - [Part 2.5 (minor refactor)](https://youtu.be/9mH4DAa5WTQ)
-  - [Part 3](https://youtu.be/mJPUugNuE2w) | [Part 3 Code](https://github.com/learn-co-students/nyc-web-100818/tree/cd56262bc8699e4589845e081ef3dfab2262d958/33-pokemon-search-review)
+  - [Part 3](https://youtu.be/mJPUugNuE2w) | [Part 3 Code](https://github.com/learn-co-students/nyc-web-100818/tree/cd56262bc8699e4589845e081ef3dfab2262d958/34-pokemon-search-review)
 - Watch the FULL CRUD w/ AJAX [lecture video](https://www.youtube.com/watch?v=DXv4ERdE7Z0&feature=youtu.be) | [code](https://github.com/learn-co-students/nyc-web-091718/tree/master/33-fetch-and-dom)
   - **NOTE**: We will do a review of AJAX and full CRUD after the break. Be sure to watch the video ahead of time
 - Complete **at least one** of the AJAX practice labs. Preferably monsters: on Learn `Project Mode -> Mini Projects -> Monsters Practice Challenge`
