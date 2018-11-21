@@ -54,6 +54,7 @@
 | 2. Lexical Scope and Closures 🧐🔬📦 | [Code](https://github.com/learn-co-students/nyc-web-100818/tree/master/29-lexical-scope-closures)  | [Video](https://youtu.be/G5CoU4LeJ0I)  |
 | 3. The DOM 🌲 | [Code](https://github.com/learn-co-students/nyc-web-100818/tree/master/30-dom-intro)  | [Video](https://youtu.be/eOeG0FEVaVE)  |
 | 3. JS Events 🎟 | [Code](https://github.com/learn-co-students/nyc-web-100818/tree/master/31-js-events)  | [Video](https://www.youtube.com/watch?v=3sCG2iqSwWo)  |
+| 4. AJAX Intro ⏳🛁 | [Code](https://github.com/learn-co-students/nyc-web-100818/tree/master/32-ajax-intro)  | []()  |
 
 
 ---
@@ -61,6 +62,7 @@
 # Thanksgiving Plan 🦃🥧🍰😴💤
 
 Over the 4 day break, you will have around 8-10 hours of work to complete in total. Depending on how you break that up, it's about 2 hours per day. Complete the labs and watch the lecture videos below in order:
+
 
 - Pokemon Search Lab on Learn `The DOM -> JS Pokemon Search Practice Assignment`
 - Watch the Pokemon search review
