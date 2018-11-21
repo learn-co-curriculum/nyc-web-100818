@@ -53,7 +53,7 @@
 | 1. Intro to JavaScript 🤠 | [Code](https://github.com/learn-co-students/nyc-web-100818/tree/master/28-intro-js)  | [Video](https://youtu.be/9DQ7t2WXuA0)  |
 | 2. Lexical Scope and Closures 🧐🔬📦 | [Code](https://github.com/learn-co-students/nyc-web-100818/tree/master/29-lexical-scope-closures)  | [Video](https://youtu.be/G5CoU4LeJ0I)  |
 | 3. The DOM 🌲 | [Code](https://github.com/learn-co-students/nyc-web-100818/tree/master/30-dom-intro)  | [Video](https://youtu.be/eOeG0FEVaVE)  |
-| 3. JS Events 🎟 | [Code](https://github.com/learn-co-students/nyc-web-100818/tree/master/31-js-events)  | [Video](https://youtu.be/eOeG0FEVaVE)  |
+| 3. JS Events 🎟 | [Code](https://github.com/learn-co-students/nyc-web-100818/tree/master/31-js-events)  | [Video](https://www.youtube.com/watch?v=3sCG2iqSwWo)  |
 
 
 ---
