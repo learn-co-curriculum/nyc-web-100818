@@ -57,7 +57,7 @@
 | 4. AJAX Intro ⏳🛁 | [Code](https://github.com/learn-co-students/nyc-web-100818/tree/master/32-ajax-intro)  | [Video](https://www.youtube.com/watch?v=HNgv6gh4_oM)  |
 | 5. Dog CEO Challenge Review 🤔🐶💼 | [Code][dog-ceo-code]  | SEE BELOW FOR VIDEOS  |
 | 6. Pokemon Search Review 🐉 | [Code Final][pokemon-code]  | SEE BELOW FOR VIDEOS |
-| 7. AJAX CRUD Review 🌌 | [Code](https://github.com/learn-co-students/nyc-web-100818/tree/master/35-full-crud-ajax-review)  | [Part 1](https://youtu.be/6SMDcP4XOVs) [Finished Update Feature](https://youtu.be/MLz-5M4oVG8) [Little Refactor](https://youtu.be/POQ5sSluggw) [Alt Solution](https://youtu.be/7YWYO6DteJo)  |
+| 7. AJAX CRUD Review 🌌 | [Code](https://github.com/learn-co-students/nyc-web-100818/tree/master/35-full-crud-ajax-review)  | [Part 1](https://youtu.be/6SMDcP4XOVs) ⑴ [Finished Update Feature](https://youtu.be/MLz-5M4oVG8) 📝 [Little Refactor](https://youtu.be/POQ5sSluggw) 🏋️‍♀️ [Alt Solution](https://youtu.be/7YWYO6DteJo) 🔬 |
 
 
 
