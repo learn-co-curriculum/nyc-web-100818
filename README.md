@@ -62,6 +62,7 @@
 | 9. `this` in JavaScript 🤔 | [Code](https://github.com/learn-co-students/nyc-web-100818/tree/master/36-js-this-keyword)  | [Video](https://youtu.be/gg-il0V7PA0) |
 | 10. Object Oriented JavaScript and the Prototype Chain 🤖 | [Code](https://github.com/learn-co-students/nyc-web-100818/tree/master/37-oo-js-prototype-chain)  | [Video](https://youtu.be/3qE-PiMt_Gw) |
 | 11. Tying it all Together OOJS Pokemon Review 🐉 | [Code](https://github.com/learn-co-students/nyc-web-100818/tree/master/38-oojs-pokemon)  | [Video](https://youtu.be/9TMaa7y9RPA) |
+| 12. OO JS TaskLister Lite™ Review | [Code](https://github.com/learn-co-students/nyc-web-100818/tree/master/39-task-lister-lite-oo)  | [Video](https://youtu.be/myz_QUnwaIM) |
 
 
 
