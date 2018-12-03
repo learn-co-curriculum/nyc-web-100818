@@ -58,11 +58,13 @@
 | 5. Dog CEO Challenge Review 🤔🐶💼 | [Code][dog-ceo-code]  | SEE BELOW FOR VIDEOS  |
 | 6. Pokemon Search Review 🐉 | [Code Final][pokemon-code]  | SEE BELOW FOR VIDEOS |
 | 7. AJAX CRUD Review 🌌 | [Code](https://github.com/learn-co-students/nyc-web-100818/tree/master/35-full-crud-ajax-review) | [Part 1](https://youtu.be/6SMDcP4XOVs) ⑴ [Finished Update Feature](https://youtu.be/MLz-5M4oVG8) 📝 [Little Refactor](https://youtu.be/POQ5sSluggw) 🏋️‍♀️ [Alt Solution](https://youtu.be/7YWYO6DteJo) 🔬 |
-| 8. Giftr CRUD Review (DOM Only) 🎁 | [Code](https://github.com/realAndrewCohn/dom-crud-practice/tree/initial-review) | [Video](https://youtu.be/Vd5eKCqorf4) |
+| 8. Giftr CRUD Review 🎁 | [Code DOM ONLY](https://github.com/realAndrewCohn/dom-crud-practice/tree/initial-review) [Code SECOND REVIEW](https://github.com/realAndrewCohn/dom-crud-practice/tree/second-review) | [Video PART 1](https://youtu.be/Vd5eKCqorf4) [Video PART 2](https://www.youtube.com/watch?v=6_oDNYyz4LA&feature=youtu.be) |
 | 9. `this` in JavaScript 🤔 | [Code](https://github.com/learn-co-students/nyc-web-100818/tree/master/36-js-this-keyword)  | [Video](https://youtu.be/gg-il0V7PA0) |
 | 10. Object Oriented JavaScript and the Prototype Chain 🤖 | [Code](https://github.com/learn-co-students/nyc-web-100818/tree/master/37-oo-js-prototype-chain)  | [Video](https://youtu.be/3qE-PiMt_Gw) |
 | 11. Tying it all Together OOJS Pokemon Review 🐉 | [Code](https://github.com/learn-co-students/nyc-web-100818/tree/master/38-oojs-pokemon)  | [Video](https://youtu.be/9TMaa7y9RPA) |
 | 12. OO JS TaskLister Lite™ Review | [Code](https://github.com/learn-co-students/nyc-web-100818/tree/master/39-task-lister-lite-oo)  | [Video](https://youtu.be/myz_QUnwaIM) |
+| 13. Woof Woof Review 🐕🐶 | [Code](https://github.com/learn-co-students/nyc-web-100818/tree/master/40-woof-woo-review)  | [Video](https://www.youtube.com/watch?v=xI_YK2e6Z08&feature=youtu.be) |
+
 
 
 
