@@ -64,6 +64,7 @@
 | 11. Tying it all Together OOJS Pokemon Review 🐉 | [Code](https://github.com/learn-co-students/nyc-web-100818/tree/master/38-oojs-pokemon)  | [Video](https://youtu.be/9TMaa7y9RPA) |
 | 12. OO JS TaskLister Lite™ Review | [Code](https://github.com/learn-co-students/nyc-web-100818/tree/master/39-task-lister-lite-oo)  | [Video](https://youtu.be/myz_QUnwaIM) |
 | 13. Woof Woof Review 🐕🐶 | [Code](https://github.com/learn-co-students/nyc-web-100818/tree/master/40-woof-woo-review)  | [Video](https://www.youtube.com/watch?v=xI_YK2e6Z08&feature=youtu.be) |
+| 14. Rails API Intro 🚂 | [Code](https://github.com/learn-co-students/nyc-web-100818/tree/master/42-rails-api-intro)  | [Video](https://youtu.be/0FTIvOI7Oyg) |
 
 
 
