@@ -67,6 +67,7 @@
 | 14. Rails API Intro 🚂 | [Code](https://github.com/learn-co-students/nyc-web-100818/tree/master/42-rails-api-intro)  | [Video](https://youtu.be/0FTIvOI7Oyg) |
 | 14. JS TIPS Checksum Review 📝✅ | [Code](https://github.com/learn-co-students/nyc-web-100818/tree/master/43-tips-checksum-review)  | [Video](https://www.youtube.com/watch?v=fNAd9DTnRDQ) |
 | 14. Ye Olde Git Workshoppe ⑂ | [Code](https://github.com/learn-co-students/nyc-web-100818/tree/master/44-git-workshoppe)  | [Video](https://www.youtube.com/watch?v=SWKMye4sdFE&feature=youtu.be) |
+| 15. ES6/Modern JS Syntax for React and Beyond | [Code](https://github.com/learn-co-students/nyc-web-100818/tree/master/45-es6-syntax-modern-js)  | [Video](https://youtu.be/FWnNgN283GU) |
 
 
 
