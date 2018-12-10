@@ -121,3 +121,10 @@ Over the 4 day break, you will have around 8-10 hours of work to complete in tot
 
 [full-crud-ajax-code]: https://github.com/learn-co-students/nyc-web-091718/tree/master/33-fetch-and-dom
 [full-crud-ajax-vid]: https://www.youtube.com/watch?v=DXv4ERdE7Z0&feature=youtu.be
+
+## Module 4
+
+| Topic                  | Code                | Video                                  |
+| ---------------------- | ------------------- | -------------------------------------- |
+| 1. Intro to React | [Code](https://repl.it/repls/SophisticatedPoliteGames)  | [Video](https://www.youtube.com/watch?v=bPvhHmbKovg&feature=youtu.be)  |
+| 2. JSX and Props | [Code](https://github.com/learn-co-students/nyc-web-100818/tree/master/46-introduction-to-react)  | [Video](https://www.youtube.com/watch?v=OsoyA8doXVU&feature=youtu.be)  |
