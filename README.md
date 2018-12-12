@@ -130,3 +130,4 @@ Over the 4 day break, you will have around 8-10 hours of work to complete in tot
 | 2. JSX and Props | [Code](https://github.com/learn-co-students/nyc-web-100818/tree/master/46-introduction-to-react)  | [Video](https://www.youtube.com/watch?v=OsoyA8doXVU&feature=youtu.be)  |
 | 3. React Events and State | [Code (Vanilla JS sample components)](https://repl.it/repls/CoralShortSweepsoftware), [Code (Counter App)](https://github.com/learn-co-students/nyc-web-100818/tree/master/47-introduction-to-state)  | [Video](https://www.youtube.com/watch?v=Fk6eezhUUds&feature=youtu.be)  |
 | 4. React State and Forms | [Code](https://codesandbox.io/s/l289x1rw7m)  | [Video](https://www.youtube.com/watch?v=9QEgZ1iytPk&feature=youtu.be)  |
+| 5. Thinking in React | [Code](https://github.com/learn-co-students/nyc-web-100818/tree/master/48-thinking-in-react) | [Video](https://youtu.be/LtawfjjIr3M)
