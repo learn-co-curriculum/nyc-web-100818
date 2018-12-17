@@ -132,4 +132,4 @@ Over the 4 day break, you will have around 8-10 hours of work to complete in tot
 | 4. React State and Forms | [Code](https://codesandbox.io/s/l289x1rw7m)  | [Video](https://www.youtube.com/watch?v=9QEgZ1iytPk&feature=youtu.be)  |
 | 5. Thinking in React | [Code](https://github.com/learn-co-students/nyc-web-100818/tree/master/48-thinking-in-react) | [Video](https://youtu.be/LtawfjjIr3M)
 | 6. React Lifecycle Methods | [Code](https://github.com/learn-co-students/nyc-web-100818/tree/master/49-life-cycle-methods), [Code (counter)](https://codesandbox.io/s/20owjzwrk0) | [Video](https://www.youtube.com/watch?v=U4jBBAWkMMk&feature=youtu.be)
-| 7. React Sushi Mock Code Challenge | [Code](https://github.com/learn-co-curriculum/react-mock-code-challenge-round-one-nyc-mhtn-web-100818), [Code (counter)](https://codesandbox.io/s/20owjzwrk0) | [Video](https://www.youtube.com/watch?v=r8BG4e7EqFg&feature=youtu.be)
+| 7. React Sushi Mock Code Challenge | [Code](https://github.com/learn-co-curriculum/react-mock-code-challenge-round-one-nyc-mhtn-web-100818) | [Video](https://www.youtube.com/watch?v=r8BG4e7EqFg&feature=youtu.be)
