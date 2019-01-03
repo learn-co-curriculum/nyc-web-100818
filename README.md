@@ -141,7 +141,6 @@ Over the 4 day break, you will have around 8-10 hours of work to complete in tot
 
 | Topic                  | Code                | Video                                  |
 | ---------------------- | ------------------- | -------------------------------------- |
-
 | 1. JWT Auth React Redux | [Code](https://github.com/learn-co-students/nyc-web-100818/tree/master/53-jwt-auth-react-redux) | [Video COMING SOON]()
 
 
