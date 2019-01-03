@@ -137,5 +137,12 @@ Over the 4 day break, you will have around 8-10 hours of work to complete in tot
 | 9. Introduction to Redux (Part I) | [Code](https://github.com/learn-co-students/nyc-web-100818/tree/master/51-redux-99) | [Video](https://www.youtube.com/watch?v=5IWmntg75B8&feature=youtu.be)
 | 10. React router | [Code](https://github.com/learn-co-students/nyc-web-100818/tree/master/52-router) | [Video](https://www.youtube.com/watch?v=pWjN7RTkAfY&feature=youtu.be)
 
+## Module 5
+
+| Topic                  | Code                | Video                                  |
+| ---------------------- | ------------------- | -------------------------------------- |
+
+| 1. JWT Auth React Redux | [Code](https://github.com/learn-co-students/nyc-web-100818/tree/master/53-jwt-auth-react-redux) | [Video COMING SOON]()
+
 
 
