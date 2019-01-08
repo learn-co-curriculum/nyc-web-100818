@@ -136,6 +136,9 @@ Over the 4 day break, you will have around 8-10 hours of work to complete in tot
 | 8. React Karaoke Mock Code Challenge | [Code](https://github.com/learn-co-students/nyc-web-100818/tree/master/50-react-karaoke-challenge) | [Video](https://www.youtube.com/watch?v=_n70VSHPh8E&feature=youtu.be)
 | 9. Introduction to Redux (Part I) | [Code](https://github.com/learn-co-students/nyc-web-100818/tree/master/51-redux-99) | [Video](https://www.youtube.com/watch?v=5IWmntg75B8&feature=youtu.be)
 | 10. React router | [Code](https://github.com/learn-co-students/nyc-web-100818/tree/master/52-router) | [Video](https://www.youtube.com/watch?v=pWjN7RTkAfY&feature=youtu.be)
+| 11. React HOC | [Code](https://github.com/learn-co-students/nyc-web-100818/tree/master/54-hoc) | [Video](https://www.youtube.com/watch?v=xqtZUmvsUVU&feature=youtu.be)
+
+
 
 ## Module 5
 
